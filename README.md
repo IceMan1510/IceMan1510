@@ -19,7 +19,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
 </div>
-<h2>My Stats 🔥</h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IceMan1510&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IceMan1510&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
