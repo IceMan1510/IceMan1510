@@ -20,4 +20,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
 </div>
 <h2>My Stats 🔥</h2>
-http://github-readme-streak-stats.herokuapp.com?user=IceMan1510&theme=dark&mode=weekly https://git.io/streak-stats
+http://github-readme-streak-stats.herokuapp.com?user=IceMan1510&theme=dark&mode=weekly
