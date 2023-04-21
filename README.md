@@ -1,7 +1,7 @@
 <h2>Hi there, I am Ankitsingh. A Full Stack Engineer by work, Computer Science Student and Runner By Passion 👋 </h2>
 
 - 🔭 I’m currently working on ...SvelteJS and NodeJS
-- 🌱 I’m currently learning ...PostgreSQL
+- 🌱 I’m currently learning ...TypeScript and D3.JS
 - 👯 I’m looking to collaborate on ...SvelteJS
 - 💬 Ask me about ...Anything
 - 😄 Pronouns: ...He/Him
@@ -19,6 +19,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp; 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  title="TypeScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-plain.svg"  title="D3.JS" alt="JavaScript" width="60" height="60"/>&nbsp;
+ 
+ 
 </div>
 <h2>My Stats 🔥</h2>
 http://github-readme-streak-stats.herokuapp.com?user=IceMan1510&theme=dark&mode=weekly
